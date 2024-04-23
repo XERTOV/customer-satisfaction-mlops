@@ -1,3 +1,9 @@
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![PYTHON](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue
+)](https://choosealicense.com/licenses/mit/)
 # Predicting how a customer will feel about a product before they even ordered it
 Problem statement: For a given customer's historical data, we are tasked to predict the review score for the next order or purchase. We will be using the [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) by Olist. This dataset has information on 100,000 orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing charges from various dimensions: from order status, price, payment, freight performance to customer location, product attributes and finally, reviews written by customers. The objective here is to predict the customer satisfaction score for a given order based on features like order status, price, payment, etc. In order to achieve this in a real-world scenario, we will be using [ZenML](https://www.zenml.io/) to build a production-ready pipeline to predict the customer satisfaction score for the next order or purchase.
 
@@ -6,5 +12,7 @@ The purpose of this repository is to demonstrate how [ZenML](https://www.zenml.i
 By offering you a framework and template to base your own work on.
 By integrating with tools like [MLflow](https://mlflow.org/) for deployment, tracking and more
 By allowing you to build and deploy your machine learning pipelines easily
+
+## Resources & References
 
 This project was built upon the knowledge gained from a helpful tutorial by [Ayush Singh](https://www.youtube.com/watch?v=dPmH3G9NQtY).
