@@ -7,4 +7,4 @@ By offering you a framework and template to base your own work on.
 By integrating with tools like [MLflow](https://mlflow.org/) for deployment, tracking and more
 By allowing you to build and deploy your machine learning pipelines easily
 
-This project was built upon the knowledge gained from a helpful tutorial by [Ayush Singh] (https://www.youtube.com/watch?v=dPmH3G9NQtY).
+This project was built upon the knowledge gained from a helpful tutorial by [Ayush Singh](https://www.youtube.com/watch?v=dPmH3G9NQtY).
